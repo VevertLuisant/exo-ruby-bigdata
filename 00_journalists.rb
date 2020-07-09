@@ -38,13 +38,6 @@ journalists
     
 
 
-# 1 la réponse est 381
-# 2 la réponse est min
-# 3 6 pseudo ont cinq caractères
-# 6 done
-# 7 373
-
-
  
 
 
